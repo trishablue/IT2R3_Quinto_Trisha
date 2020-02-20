@@ -32,7 +32,7 @@ nav a:hover{
   border-radius: 13px;
 }
 section.banner-section{
-  background-image:url(banner.jpeg);
+  background-image:url(image/banner.jpeg);
   padding: 216px;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -74,16 +74,9 @@ section.About p{
   margin-left: 20%;
 }
 .image img{
-  width: 600px;
-  height: 500px;
-  float: right;
-  margin-top:-38%;
-  margin-right:5%;
-}
-.icon img{
-  width: 30%;
-  }
-div.icon{
-  display: inline-block;
-  float: left;
+    width: 680px;
+    height: 500px;
+    float: right;
+    margin-top: -25%;
+    margin-right: 5%;
 }
